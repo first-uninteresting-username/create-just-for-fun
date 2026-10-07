@@ -1,12 +1,12 @@
 name = "Create: Just for Fun"
 author = "First-Non-Interesting-Username"
-version = "2026.35"
+version = "2026.41"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f391c4a45e9ae5b3ece3d453d96281e28e83a45c35e4fc35b7daa473db4c427f"
+hash = "37cf21b852ff37287853b6873060d34fe2a918e98040596e1f9cac072f647ea5"
 
 [versions]
 minecraft = "1.21.1"
