@@ -1,6 +1,6 @@
 {
   "name": "Create: Just for Fun developement",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu@sha256:00e84e24112159d45c0262f07cb013cb58cb6a415f3e1c743d4a3115ac5d76c6",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu@sha256:b377a08d19467bcc08180cb95098448cac31c1a8423e287ce709a9eb09e14762",
   "features": {
     "ghcr.io/devcontainers/features/go:1": {
       "version": "latest"
